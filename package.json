@@ -1,0 +1,27 @@
+{
+  "name": "g-translate",
+  "version": "1.0.6",
+  "description": "Google Translation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousef/translate.git"
+  },
+  "keywords": [
+    "translate",
+    "google-translate",
+    "translation"
+  ],
+  "author": "Darky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yousef/translate/issues"
+  },
+  "homepage": "https://github.com/yousef/translate#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
